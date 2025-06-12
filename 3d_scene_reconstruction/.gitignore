@@ -1,0 +1,5 @@
+*.pyc
+*.pth
+*.pt
+__pycache__/
+experiments/
